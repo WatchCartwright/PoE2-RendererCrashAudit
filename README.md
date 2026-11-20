@@ -161,3 +161,4 @@ No. This repository provides documentation and release packaging instructions on
 - [Helldivers2-ShaderCacheGuard](../Helldivers2-ShaderCacheGuard) — HELLDIVERS 2 `shader_cache` & `user_settings.config` check
 
 *Independent community project. Not affiliated with Grinding Gear Games, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
